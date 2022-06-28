@@ -1,0 +1,11 @@
+
+Azure DB:
+username: cloudadmin
+password: sfncwsl20432i!!234e4
+
+UniqueID: 492859
+Resource Group Name: learn-59544493-be32-4c6e-846e-a65378b3f02f
+location: westus
+ServerName: bus-server492859
+
+connectionString: Server=bus-server492859.database.windows.net,1433;Initial Catalog=bus-db;User Id=cloudadmin;Password=sfncwsl20432i!!234e4;Connection Timeout=30;
